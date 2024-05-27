@@ -4,3 +4,4 @@ STM8/src/*.tar.bz2
 STM32/src/*.json
 STM32/src/*.tar.bz2
 STM32/src/download
+.DS_Store
