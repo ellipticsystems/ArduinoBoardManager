@@ -16,8 +16,8 @@
           "category": "Contributed",
           "url": "https://github.com/ellipticsystems/ArduinoBoardManager/releases/download/2.7.1/STM32-2.7.1.tar.bz2",
           "archiveFileName": "STM32-2.7.1.tar.bz2",
-          "checksum": "SHA-256:0d0caa4e10b78dd7ec4ff2be2a8572647dbd25e6d5a686f929e5ed040b1f7937",
-          "size": "47515790",
+          "checksum": "SHA-256:a6fbf9992059f06edf72ea9788e567f20506ebbed0718bef2e00fcef46f3bca5",
+          "size": "47454628",
           "boards": [
             {"name": "Tinkerstruct"}
           ],
