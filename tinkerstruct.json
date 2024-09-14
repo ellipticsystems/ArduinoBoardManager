@@ -12,12 +12,12 @@
         {
           "name": "Tinkerstruct Boards",
           "architecture": "stm32",
-          "version": "2.7.1",
+          "version": "2.7.2",
           "category": "Contributed",
-          "url": "https://github.com/ellipticsystems/ArduinoBoardManager/releases/download/2.7.1/STM32-2.7.1.tar.bz2",
-          "archiveFileName": "STM32-2.7.1.tar.bz2",
-          "checksum": "SHA-256:a6fbf9992059f06edf72ea9788e567f20506ebbed0718bef2e00fcef46f3bca5",
-          "size": "47454628",
+          "url": "https://github.com/ellipticsystems/ArduinoBoardManager/releases/download/2.7.2/STM32-2.7.2.tar.bz2",
+          "archiveFileName": "STM32-2.7.2.tar.bz2",
+          "checksum": "SHA-256:f0a8381289de897c5cd0ea434a08362491eda32a67100034e6586db2131b883a",
+          "size": "47460298",
           "boards": [
             {"name": "Tinkerstruct"}
           ],
